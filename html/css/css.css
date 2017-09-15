@@ -1,0 +1,103 @@
+body{
+    font-size: 12px;
+}
+.header{
+    height: 60px;
+    background-color: #fff;
+    margin: 15px 0 0 15px;
+}
+.logo{
+    float: left;   
+}
+.main{
+    margin:0 auto;
+    width: 300px
+}
+.footer{
+    height: 200px;
+}
+.social_login>img{
+    width: 60px;
+    padding:10px; 
+}
+.form_title{
+    text-align: center;
+}
+.sub_title{
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+
+}
+.sub_title_text{
+    display: block;
+    height: 20px;
+    width: 80px;
+    background-color: white;
+    position: relative;
+    left: 108px;
+    top: 22px;
+    text-align: center;
+}   
+.social_login{
+    text-align: center;
+    height: 50px;
+    padding: 15px;
+}
+.form_login{
+}
+.form_login>form{
+    padding-top: 24px;
+    width: 100%;
+    margin:0 auto;
+}
+.input_style{
+    display: inline-block;
+    width: 100%;
+    line-height: 35px;
+}
+.input_style>span{
+    display: Inline;
+    float: left;
+}
+.input_style>input{
+    display: Inline;
+    float: right;
+    width: 200px;
+    height: 22px;
+
+}
+.submit{
+    margin:0 auto;
+}
+.submit>input{
+    margin:0 auto;
+    padding: 3px;
+    font-size:16px;
+    margin: 0 auto;
+    padding: 3px;
+    width: 100%;
+    float: right;
+}
+.form_checkbox{
+    padding-left: 92px; 
+}
+.yahoo{
+    width: 60px;
+    height: 60px;
+    background-color: #cb18f8;
+    border-radius: 50px;
+    display: inline-block;
+    text-align: center;
+    float: left;
+    margin-top: 11px;
+    margin-left: 22px;
+}
+.yahoo>span{
+      margin: 0 auto;
+    display: block;
+
+    line-height: 58px;
+    font-size: 24px;
+    color: #FFF;
+}
